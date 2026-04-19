@@ -8,4 +8,4 @@ is stored locally on your device only.
 We do not use analytics, advertising, or third party tracking 
 of any kind.
 
-If you have any questions please contact: [your email]
+If you have any questions please contact: [puttockh@gmail.com]
